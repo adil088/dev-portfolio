@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.085ca9de.css",
+    "main.js": "/my-portfolio/static/js/main.33e4a5fb.js",
+    "static/js/787.2dcca737.chunk.js": "/my-portfolio/static/js/787.2dcca737.chunk.js",
+    "static/media/person1.PNG": "/my-portfolio/static/media/person1.a67bcdfe1182daf2d464.PNG",
+    "static/media/about.png": "/my-portfolio/static/media/about.4fee26f51e34c5122968.png",
+    "static/media/Resume.pdf": "/my-portfolio/static/media/Resume.9acfd688c5ea59374e07.pdf",
+    "static/media/postmanlogo.png": "/my-portfolio/static/media/postmanlogo.d6ab8d27461a0e34e8cf.png",
+    "static/media/bootstraplogo.png": "/my-portfolio/static/media/bootstraplogo.947641a0a1ed8fd0dc75.png",
+    "static/media/CSSLogo.png": "/my-portfolio/static/media/CSSLogo.767008707d9c53b20f55.png",
+    "static/media/JavaScriptLogo.png": "/my-portfolio/static/media/JavaScriptLogo.5f336e64b6098c726235.png",
+    "static/media/logo.png": "/my-portfolio/static/media/logo.2d531feb18c1304753fb.png",
+    "static/media/HTML5.png": "/my-portfolio/static/media/HTML5.dffe7101a60ddeed3e89.png",
+    "static/media/mongodblogo.png": "/my-portfolio/static/media/mongodblogo.6472780139de41ec1e57.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.085ca9de.css.map": "/my-portfolio/static/css/main.085ca9de.css.map",
+    "main.33e4a5fb.js.map": "/my-portfolio/static/js/main.33e4a5fb.js.map",
+    "787.2dcca737.chunk.js.map": "/my-portfolio/static/js/787.2dcca737.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.085ca9de.css",
+    "static/js/main.33e4a5fb.js"
+  ]
+}
